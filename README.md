@@ -74,7 +74,6 @@ Accuracy vs Epochs	Loss vs Epochs
 # ✅ Evaluation
 Final model accuracy: 97.2%
 
-(Optional) Confusion Matrix:
 <img width="592" height="515" alt="image" src="https://github.com/user-attachments/assets/91dcbbf3-2f43-492d-bbae-a6164aa6c890" />
 
 
