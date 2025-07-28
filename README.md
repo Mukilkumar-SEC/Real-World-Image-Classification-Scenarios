@@ -3,6 +3,8 @@
 This project demonstrates an end-to-end image classification pipeline using a Convolutional Neural Network (CNN) built with **PyTorch**. A custom dataset organized into class folders is used to train and evaluate the model.
 
 ---
+## Colab link :
+https://colab.research.google.com/drive/1APwxrVS3ThlsaQe8h70dC_nxXagG42AV?usp=sharing
 
 ## 📁 Project Structure
 ```
